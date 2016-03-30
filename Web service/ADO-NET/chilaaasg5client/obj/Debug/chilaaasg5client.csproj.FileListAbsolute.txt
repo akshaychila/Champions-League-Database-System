@@ -1,0 +1,6 @@
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\chilaaasg5client\bin\Debug\chilaaasg5client.exe.config
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\chilaaasg5client\bin\Debug\chilaaasg5client.exe
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\chilaaasg5client\bin\Debug\chilaaasg5client.pdb
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\chilaaasg5client\obj\Debug\chilaaasg5client.csprojResolveAssemblyReference.cache
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\chilaaasg5client\obj\Debug\chilaaasg5client.exe
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\chilaaasg5client\obj\Debug\chilaaasg5client.pdb

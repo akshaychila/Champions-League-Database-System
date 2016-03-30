@@ -1,0 +1,7 @@
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\CLeagueService\bin\CLeagueService.dll
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\CLeagueService\bin\CLeagueService.pdb
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\CLeagueService\bin\chilaadblib.dll
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\CLeagueService\bin\chilaadblib.pdb
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\CLeagueService\obj\Debug\CLeagueService.csprojResolveAssemblyReference.cache
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\CLeagueService\obj\Debug\CLeagueService.dll
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\CLeagueService\obj\Debug\CLeagueService.pdb

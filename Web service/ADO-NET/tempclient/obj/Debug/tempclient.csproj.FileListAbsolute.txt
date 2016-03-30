@@ -1,0 +1,8 @@
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\tempclient\bin\Debug\tempclient.exe.config
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\tempclient\bin\Debug\tempclient.exe
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\tempclient\bin\Debug\tempclient.pdb
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\tempclient\bin\Debug\chilaadblib.dll
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\tempclient\bin\Debug\chilaadblib.pdb
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\tempclient\obj\Debug\tempclient.csprojResolveAssemblyReference.cache
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\tempclient\obj\Debug\tempclient.exe
+C:\Users\achila\Documents\Visual Studio 2012\Projects\ADO-NET\tempclient\obj\Debug\tempclient.pdb

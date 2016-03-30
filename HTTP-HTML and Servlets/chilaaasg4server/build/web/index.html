@@ -1,0 +1,66 @@
+
+
+
+
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>HTML Page</title>
+        <link rel="stylesheet" type ="text/css" href ="servlet.css" /> 
+    </head>
+    <body>
+        <form  METHOD="GET">
+            <table border="0" id="inform" cellspacing = "10">
+                <tbody>
+
+
+                    <tr>
+                        <td> <label for="matchid"> Match ID: </label> </td>
+                        <td> <INPUT id= "matchid" type=text size=20 name="mid" value=""> </td>
+                        <td> <label for="playerid"> Player ID: </label> </td>
+                        <td> <INPUT id= "playerid" type=text size=20 name="pid" value=""> </td>                        
+                        <td> <label for="pgoals"> Goals: </label> </td>
+                        <td> <INPUT id= "pgoals" type=text size=20 name="goals" value=""> </td>
+                    </tr>
+
+                    <tr>
+                        <td> <INPUT TYPE="submit" formaction = "AddPlayerStat" VALUE="Add Player Stat"> </td>                      
+                    </tr>
+                    
+               
+                    
+                    <tr>
+                        <td> <label for="playerid"> Player ID: </label> </td>
+                        <td> <INPUT id= "playerid" type=text size=20 name="ppid" value=""> </td>
+                        
+                    </tr>
+                    
+                    <tr>
+                        <td> <INPUT TYPE="submit" formaction = "ListPlayerStats" VALUE="List Player Stat"> </td>
+                    </tr>
+                    
+                  
+                    
+                    <tr>
+                        <td> <label for="teamid"> Team ID: </label> </td>
+                        <td> <INPUT id= "teamid" type=text size=20 name="tid" value=""> </td>
+                    </tr>
+                    
+                    <tr>
+                        <td> <INPUT TYPE="submit" formaction = "ListTeamPoints" VALUE="List Team Points"> </td>
+                    </tr>
+
+
+                </tbody>
+            </table>
+        </form>
+        
+       
+    </body>
+</html>
